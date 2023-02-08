@@ -32,4 +32,4 @@ spec:
       - name: spec.version
         value: 4.5.2
       - name: spec.storageClass
-        value: ocs-storagecluster-ceph-rbd
+        value: ocs-storagecluster-cephfs
